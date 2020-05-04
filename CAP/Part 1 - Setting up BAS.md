@@ -23,7 +23,7 @@ Behind the scenes, your project will be generated. Once complete, the screen wil
 
 ![Select Workspace](../Images/CAPtemplate4.jpg)
 
-The editor will reopen in the context of a new workspace and now you can begin work on your project. However, you will likely see in the bottom of the screen a message that says that the Space has not been set with Cloud Foundy. 
+The editor will reopen in the context of a new workspace and now you can begin work on your project. However, you will likely see in the bottom of the screen a message that says that the Space has not been set with Cloud Foundry. 
 Why are we seeing this message? It's an information message indicating that currently your BAS installation has no idea how to deploy/connect to Cloud Foundry which is where we eventually want to deploy this application. So, by following through the next few steps we will get you connected to the appropriate Cloud Foundry instance.
 
 Now we will connect your app studio to Cloud Foundry. For this connectivity to work, you will be using a different userid...a Platform User ID.
